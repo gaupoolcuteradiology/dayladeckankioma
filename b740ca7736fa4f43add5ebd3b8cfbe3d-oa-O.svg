@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2056" height="1322">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="b740ca7736fa4f43add5ebd3b8cfbe3d-oa-1" height="110" width="190" y="145.50003" x="61.49989" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="b740ca7736fa4f43add5ebd3b8cfbe3d-oa-2" height="57.5" width="150" y="165.50003" x="328.99989" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="b740ca7736fa4f43add5ebd3b8cfbe3d-oa-3" height="105" width="247.50001" y="123.00003" x="1753.99993" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="b740ca7736fa4f43add5ebd3b8cfbe3d-oa-4" height="42.5" width="180" y="540.50004" x="58.99989" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="b740ca7736fa4f43add5ebd3b8cfbe3d-oa-5" height="42.5" width="132.5" y="545.50004" x="328.99989" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="b740ca7736fa4f43add5ebd3b8cfbe3d-oa-6" height="100" width="247.50001" y="488.00004" x="1753.99993" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="b740ca7736fa4f43add5ebd3b8cfbe3d-oa-7" height="50" width="227.50001" y="828.00005" x="61.49989" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="b740ca7736fa4f43add5ebd3b8cfbe3d-oa-8" height="50" width="102.5" y="800.50005" x="318.99989" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="b740ca7736fa4f43add5ebd3b8cfbe3d-oa-9" height="42.5" width="70" y="803.00005" x="758.9999" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="b740ca7736fa4f43add5ebd3b8cfbe3d-oa-10" height="52.5" width="167.5" y="1110.50006" x="56.49989" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="b740ca7736fa4f43add5ebd3b8cfbe3d-oa-11" height="45" width="142.5" y="1058.00005" x="326.49989" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="b740ca7736fa4f43add5ebd3b8cfbe3d-oa-12" height="42.5" width="155" y="1175.50006" x="326.49989" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="b740ca7736fa4f43add5ebd3b8cfbe3d-oa-13" height="42.5" width="80" y="1035.50005" x="1311.49991" stroke="#2D2D2D" fill="#ff0000"/>
+  <rect id="b740ca7736fa4f43add5ebd3b8cfbe3d-oa-14" height="32.5" width="170" y="1205.50006" x="1083.99991" stroke="#2D2D2D" fill="#ff0000"/>
+ </g>
+</svg>
